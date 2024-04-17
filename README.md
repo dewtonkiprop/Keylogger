@@ -1,8 +1,8 @@
 # Keylogger
 Full keylogger solution for real-time monitoring &amp; threat detection. Features keystroke recording, snapshot capture, audio recording &amp; VirusTotal API threat scanning. Explore our codebase for enhanced digital security.
 
-**Keylogger
-**
+**Keylogger**
+
 The Keylogger is a comprehensive cybersecurity tool designed for real-time monitoring and threat detection. With features like keystroke recording, snapshot capture, audio recording, and integrated threat scanning via the VirusTotal API, it offers robust protection against digital threats.
 
 **Features**
