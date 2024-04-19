@@ -25,7 +25,7 @@ db = firestore.client()
 # # root.geometry('400x300')
 #
 # # Initialize VirusTotal API key
-VT_API_KEY = '979cb48901a07427ac7eb72892676533414d75abb85509e8fd7819369b12f6cc'  # Replace with your VirusTotal API key
+VT_API_KEY = 'INPUT YOUR VIRUSTOTAL API KEY'  # Replace with your VirusTotal API key
 #
 # Firebase setup
 # db = firestore.client()
